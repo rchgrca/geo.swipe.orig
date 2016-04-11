@@ -1,0 +1,8 @@
+html { height: 100% }
+body { height: 100%; margin: 0px; padding: 0px; position:relative; }
+#map_canvas { height: 100%; position: relative; }
+#sports_info_c {display:none;background:#fff;border:1px solid #000;width:66%;position:absolute;top:0;right:0; padding:0 10px;}
+#thislocation div {margin-top:5px;font-size:77%;}
+#local_location {font-size:77%;font-weight:bold;}
+#local_scoreboard ul {visibility: hidden;}
+#local_scoreboard li {margin-left:-20px !important;font-size:77%;}
